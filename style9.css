@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.Pranzo{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.camminata{
+    color: white;
+    font-size: 50px;
+}
+.div{
+    text-align: center;
+}
+.video{
+    background-image: url(piano.mp4);
+}
